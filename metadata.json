@@ -1,0 +1,6 @@
+{
+  "name": "BarberShop - سامانه جامع و مدرن رزرو و فروشگاه پیرایش مردانه",
+  "description": "سامانه رزرو آنلاین نوبت، معرفی خدمات لوکس پیرایش، فروشگاه محصولات مراقبت و بهداشت مردانه با داشبورد مدیریت و پنل کاربری اختصاصی",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
