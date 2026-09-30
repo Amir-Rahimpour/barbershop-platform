@@ -152,3 +152,4 @@ python manage.py runserver
 ## 📄 مجوز (License)
 
 این پروژه تحت مجوز [MIT License](LICENSE) منتشر شده است.
+این پروژه ساخته شده توسط Amir-Rahimpour میباشد.
